@@ -5,6 +5,4 @@ Hi there 👋 it's me Logesh kumar
 - 😄 that's it about me
 
 <img src="https://github-readme-stats.vercel.app/api?username=logeshkumarsb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151516" style="float:right">
-<!-- <img src="http://ionicabizau.github.io/github-profile-languages/?user=logeshkumarsb">
- -->
  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?logeshkumarsb" frameborder="0"></iframe>
