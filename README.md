@@ -1,11 +1,11 @@
+<h1 align="center">Hi 👋, I'm Logesh Kumar.S</h1>
 Hi there 👋 it's me Logesh kumar
 - 🔭 I’m currently student studing at skcet...
 - 🌱 I’m fascinate about open source and coding ...
 - 📫 How to reach me:number:9345525166.
 - 😄 that's it about me
-<h1 align="center">Hi 👋, I'm Logesh Kumar.S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<!-- <h1 align="center">Hi 👋, I'm Logesh Kumar.S</h1> -->
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/logesh-kumar-b1708a20b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/logesh-kumar-b1708a20b/" height="30" width="40" /></a>
