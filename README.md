@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logesh Kumar.S</h1>
+  <center><img src="logeshs.jpeg" width="300px" height="350px" class="my"></center>
 <h5>Hi there 👋 it's me Logesh kumar</h5>
 <h5>- 🔭 I’m currently student studing at skcet...</h5>
 <h5>- 🌱 I’m fascinate about open source and coding ...</h5>
