@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=logeshkumarsb&" alt="logeshkumarsb" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=logeshkumarsb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151516" style="float:right">
+<img src="https://github-readme-stats.vercel.app/api?username=logeshkumarsb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151516" style="float:top">
 <!--  <image width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?logeshkumarsb" frameborder="0"></image> -->
