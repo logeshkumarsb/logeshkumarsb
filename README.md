@@ -1,3 +1,4 @@
+<div style="background-color:#1C658C">
 <h1 align="center">Hi 👋, I'm Logesh Kumar.S</h1>
 <!--   <center><img src="logeshs.jpeg" width="300px" height="350px" class="my"></center> -->
 <h5>Hi there 👋 it's me Logesh kumar</h5>
@@ -22,3 +23,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=logeshkumarsb&" alt="logeshkumarsb" style="blackground-color:blue"/></p>
 
 <!--  <image width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?logeshkumarsb" frameborder="0"></image> -->
+  </div>
